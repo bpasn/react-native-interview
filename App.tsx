@@ -1,4 +1,4 @@
-import { RefreshControl, SafeAreaView, ScrollView, StyleSheet } from 'react-native';
+import { SafeAreaView, StyleSheet } from 'react-native';
 import HomePage from './src/screens/HomePage';
 export default function App() {
   return (
